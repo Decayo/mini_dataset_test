@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Picture</folder>
+	<filename>Leisure-iDiD-Xinglong 2_72226.jpg</filename>
+	<path>D:\edge_AI\Picture\Leisure-iDiD-Xinglong 2_72226.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>506</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sofa</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>653</xmin>
+			<ymin>282</ymin>
+			<xmax>850</xmax>
+			<ymax>442</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tv</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>479</xmin>
+			<ymin>235</ymin>
+			<xmax>523</xmax>
+			<ymax>298</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>542</xmin>
+			<ymin>311</ymin>
+			<xmax>620</xmax>
+			<ymax>377</ymax>
+		</bndbox>
+	</object>
+</annotation>
